@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <title>Angular Authentication</title>
+    <link rel="stylesheet" href="css/bootstrap-3.1.1.min.css"/>
+    <script src="js/lib/angular.js"></script>
+    <script src="js/auth.client.js"></script>
+</head>
+<body ng-app="myApp">
+<div class="container">
+    <div class="jumbotron">
+        <div class="container">
+            <div class="col-sm-6 col-sm-offset-4">
+                <div ng-controller="UserCtrl">
+                    <span ng-show="isAuthenticated" class="alert-success "> <h2> {{welcome}} </h2></span>
+                    <form ng-show="!isAuthenticated" ng-submit="submit()">
+                        <div class="form-group">
+                            <label for="username">Username</label>
+                            <input ng-model="user.username" id="username" type="text" name="user" class="form-control"
+                                   placeholder="Username"/>
+                        </div>
+                        <div class="form-group">
+                            <label for="password">Password</label>
+                            <input ng-model="user.password" type="password" id="password" name="pass"
+                                   class="form-control"
+                                   placeholder="Password"/>
+                        </div>
+                        <input type="submit" value="Login" class="btn btn-primary"/>
+                    </form>
+                    <div class="alert-danger"> {{error}}</div>
+                    <div ng-show="isAuthenticated">
+                        <a ng-click="callRestricted()" href="" class="btn btn-info">Shh, this is private!</a>
+                        <br>
+
+                        <div><h2>{{message}} </h2></div>
+                        <a ng-click="logout()" class="btn btn-info" href="">Logout</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

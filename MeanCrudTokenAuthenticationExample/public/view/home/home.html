@@ -1,0 +1,46 @@
+<!--
+* @author Adarsh
+* @author $LastChangedBy: adarsh $
+* @version $Revision: 0001 $, $Date:: 1/1/13 00:11 AM#$
+-->
+<div>
+    <table class="table">
+        <thead>
+        <tr>
+            <td>User Id</td>
+            <td>Full Name</td>
+            <td>User Name</td>
+            <td>User Password</td>
+            <td>User Location</td>
+        </tr>
+        <tr>
+            <td><input class="form-control" ng-model="editUserObject._id" readonly/></td>
+            <td><input class="form-control" ng-model="editUserObject.name"/></td>
+            <td><input class="form-control" ng-model="editUserObject.username"/></td>
+            <td><input class="form-control" ng-model="editUserObject.password"/></td>
+            <td><input class="form-control" ng-model="editUserObject.location"/></td>
+            <td>
+                <button class="btn btn-info" ng-click="updateUser(editUserObject)">Update</button>
+            </td>
+            <td>
+                <button class="btn btn-info" ng-click="clearUser()">Clear</button>
+            </td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr ng-repeat="user in userList | orderBy : user.username">
+            <td>{{user._id}}</td>
+            <td>{{user.name}}</td>
+            <td>{{user.username}}</td>
+            <td>{{user.password}}</td>
+            <td>{{user.location}}</td>
+            <td>
+                <button class="btn btn-warning" ng-click="deleteUser(user._id)">Delete</button>
+            </td>
+            <td>
+                <button class="btn btn-warning" ng-click="editUser(user._id)">Edit</button>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>

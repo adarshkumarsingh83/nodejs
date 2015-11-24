@@ -1,0 +1,56 @@
+﻿<h1>Hi {{vm.user.firstName}}!</h1>
+<p>You're logged in!!</p>
+<h3>All registered users:</h3>
+<div class="container">
+    <div>
+        Order <select ng-model="vm.sortOrder">
+        <option name="+username">ascending username</option>
+        <option name="-username">descending username</option>
+        <option name="+firstName">ascending firstName</option>
+        <option name="-firstName">descending firstName</option>
+        <option name="+lastName">ascending lastName</option>
+        <option name="-lastName">descending lastName</option>
+    </select>
+    </div>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <td>User Name</td>
+            <td>User First Name</td>
+            <td>User Last Name</td>
+            <td>User Password</td>
+            <td>Action</td>
+            <td>&nbsp;</td>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td><input class="form-control" ng-model="vm.editUserObject.username"/></td>
+            <td><input class="form-control" ng-model="vm.editUserObject.firstName"/></td>
+            <td><input class="form-control" ng-model="vm.editUserObject.lastName"/></td>
+            <td><input class="form-control" ng-model="vm.editUserObject.password"/></td>
+            <td>
+                <button class="btn btn-info" ng-click="vm.updateUser(vm.editUserObject)">Update</button>
+            </td>
+            <td>
+                <button class="btn btn-info" ng-click="vm.clearUser()">Clear</button>
+            </td>
+        </tr>
+        <tr ng-repeat="user in vm.allUsers | orderBy : vm.sortOrder">
+            <td>{{user.username}}</td>
+            <td>{{user.firstName}}</td>
+            <td>{{user.lastName}}</td>
+            <td>{{user.password}}</td>
+            <td>
+                <button class="btn btn-warning" ng-click="vm.deleteUser(user._id)">Delete</button>
+            </td>
+            <td>
+                <button class="btn btn-warning" ng-click="vm.editUser(user._id)">Edit</button>
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</div>
+<p>&nbsp;</p>
+<p><a href="#/login" class="btn btn-primary">Logout</a></p>
