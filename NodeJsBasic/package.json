@@ -1,0 +1,28 @@
+{
+  "name": "NodeJsBasic",
+  "version": "0.1.0",
+  "dependencies": {
+    "http": "*",
+    "connect": "*",
+    "fs": "^4.2.6"
+  },
+  "description": "NodeJsBasic",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auth0/angular-token-auth.git"
+  },
+  "keywords": [
+    "angular",
+    "express"
+  ],
+  "author": "adarsh kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/angular-token-auth/issues"
+  }
+}
