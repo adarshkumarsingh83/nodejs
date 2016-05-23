@@ -1,0 +1,51 @@
+> show dbs
+local  0.078GB
+test   0.078GB
+
+> use test
+switched to db test
+
+> db.contactList.insert({name:"adarsh kumar",email:"adarsh@kumar",phone:"123456789"});
+WriteResult({ "nInserted" : 1 })
+> db.contactList.insert({name:"amit kumar",email:"amit@kumar",phone:"987654321"});
+WriteResult({ "nInserted" : 1 })
+> db.contactList.insert({name:"radha singh",email:"radha@singh",phone:"987654321"});
+WriteResult({ "nInserted" : 1 })
+> db.contactList.insert({name:"usha singh",email:"usha@singh",phone:"987654321"});
+WriteResult({ "nInserted" : 1 })
+> db.contactList.insert({name:"niranjan singh",email:"niranjan@singh",phone:"987654321"});
+WriteResult({ "nInserted" : 1 })
+
+> db.contactList.find().pretty();
+{
+        "_id" : ObjectId("56421cd0830a75ada0e50dd1"),
+        "name" : "adarsh kumar",
+        "email" : "adarsh@kumar",
+        "phone" : "123456789"
+}
+{
+        "_id" : ObjectId("56421ce4830a75ada0e50dd2"),
+        "name" : "amit kumar",
+        "email" : "amit@kumar",
+        "phone" : "987654321"
+}
+{
+        "_id" : ObjectId("56421cf3830a75ada0e50dd3"),
+        "name" : "radha singh",
+        "email" : "radha@singh",
+        "phone" : "987654321"
+}
+{
+        "_id" : ObjectId("56421cff830a75ada0e50dd4"),
+        "name" : "usha singh",
+        "email" : "usha@singh",
+        "phone" : "987654321"
+}
+{
+        "_id" : ObjectId("56421d0e830a75ada0e50dd5"),
+        "name" : "niranjan singh",
+        "email" : "niranjan@singh",
+        "phone" : "987654321"
+}
+>
+
