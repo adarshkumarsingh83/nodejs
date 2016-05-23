@@ -1,0 +1,6 @@
+[2016-05-21 18:44:23.020] [INFO] dev - server stared at 3000 port 
+[2016-05-21 18:44:38.192] [DEBUG] dev - ::1 - - "GET / HTTP/1.1" 200 7 "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 18:44:38.769] [DEBUG] dev - ::1 - - "GET /favicon.ico HTTP/1.1" 404 24 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:48:05.894] [INFO] dev - server stared at 3000 port 
+[2016-05-23 18:48:15.959] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 200 7 "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:48:16.294] [DEBUG] dev - 127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 404 24 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"

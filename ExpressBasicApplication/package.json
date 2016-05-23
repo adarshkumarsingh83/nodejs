@@ -1,0 +1,32 @@
+{
+  "name": "ExpressBasicApplication",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^4.13.3",
+    "log4js": "^0.6.36"
+  },
+  "description": "ExpressBasicApplication",
+  "main": "server.js",
+  "devDependencies": {
+    "should": "~7.1.0",
+    "mocha": "~2.3.3",
+    "supertest": "~1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auth0/angular-token-auth.git"
+  },
+  "keywords": [
+    "log4js",
+    "angular",
+    "express"
+  ],
+  "author": "adarsh kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/angular-token-auth/issues"
+  }
+}
