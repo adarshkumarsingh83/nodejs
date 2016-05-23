@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html data-ng-app="Application">
+<head>
+    <title></title>
+    <link rel="stylesheet" href="css/bootstrap-3.1.1.css"/>
+    <script src="js/libs/jquery-2.1.4.min.js"></script>
+    <script src="js/libs/angular.js"></script>
+    <script src="js/libs/angular-route.js"></script>
+    <script src="js/libs/angular-cookies.js"></script>
+
+    <script src="js/application.js"></script>
+
+    <script src="js/services/HomeService.js"></script>
+    <script src="js/services/LoginService.js"></script>
+    <script src="js/services/RegistrationService.js"></script>
+
+    <script src="js/controller/HomeController.js"></script>
+    <script src="js/controller/LoginController.js"></script>
+    <script src="js/controller/LogoutController.js"></script>
+    <script src="js/controller/RegistrationController.js"></script>
+</head>
+<body>
+<div class="container">
+
+    <div class="row">
+        <div class="col-lg-12">
+            <div style="text-align: center" header></div>
+            <div ng-show="showLogout" style="text-align: right;">
+                <a href="#/logout" class="btn btn-link">Logout</a>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-2">{{message}}</div>
+        <div class="col-lg-8">
+            <div data-ng-view></div>
+        </div>
+        <div class="col-lg-2"></div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div style="text-align: center" footer></div>
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

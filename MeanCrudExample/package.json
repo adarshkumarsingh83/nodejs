@@ -1,0 +1,28 @@
+{
+  "name": "MeanCrudExample",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "*",
+    "lo4js": "*",
+    "mongoose": "^4.2.6"
+  },
+  "description": "MeanCrudExample",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auth0/angular-token-auth.git"
+  },
+  "keywords": [
+    "angular",
+    "express"
+  ],
+  "author": "adarsh kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/angular-token-auth/issues"
+  }
+}
