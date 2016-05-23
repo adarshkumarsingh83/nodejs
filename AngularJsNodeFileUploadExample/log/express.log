@@ -1,0 +1,39 @@
+[2016-05-23 18:58:17.432] [INFO] dev - Working on port 3000
+[2016-05-23 18:58:22.434] [DEBUG] dev - ::1 - - "GET / HTTP/1.1" 200 1335 "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:58:22.655] [DEBUG] dev - ::1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:58:22.691] [DEBUG] dev - ::1 - - "GET /css/espark.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:58:22.697] [DEBUG] dev - ::1 - - "GET /js/libs/jquery-2.1.4.min.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:58:22.714] [DEBUG] dev - ::1 - - "GET /js/libs/bootstrap.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:58:22.717] [DEBUG] dev - ::1 - - "GET /js/app.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:58:22.790] [DEBUG] dev - ::1 - - "GET /js/libs/angular.js HTTP/1.1" 200 802510 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 18:58:27.095] [INFO] dev - watch.jpg is starting ...
+[2016-05-23 18:58:27.100] [INFO] dev - file uploaded to  public\uploads\watch1464010107094.jpg
+[2016-05-23 18:58:27.101] [INFO] dev - File Name 
+[2016-05-23 18:58:27.108] [DEBUG] dev - ::1 - - "POST /api/photo HTTP/1.1" 200 17 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:36.744] [INFO] dev - Working on port 3000
+[2016-05-23 19:06:42.477] [DEBUG] dev - ::1 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:42.778] [DEBUG] dev - ::1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:42.784] [DEBUG] dev - ::1 - - "GET /css/espark.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:42.790] [DEBUG] dev - ::1 - - "GET /js/libs/jquery-2.1.4.min.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:42.793] [DEBUG] dev - ::1 - - "GET /js/libs/bootstrap.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:42.797] [DEBUG] dev - ::1 - - "GET /js/libs/angular.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:42.803] [DEBUG] dev - ::1 - - "GET /js/app.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:06:50.348] [INFO] dev - watch.jpg is starting ...
+[2016-05-23 19:06:50.355] [INFO] dev - file uploaded to  public\uploads\watch1464010610347.jpg
+[2016-05-23 19:06:50.356] [INFO] dev - File Name 
+[2016-05-23 19:06:50.366] [DEBUG] dev - ::1 - - "POST /api/photo HTTP/1.1" 200 17 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:23.302] [DEBUG] dev - ::1 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:23.481] [DEBUG] dev - ::1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:23.490] [DEBUG] dev - ::1 - - "GET /css/espark.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:23.532] [DEBUG] dev - ::1 - - "GET /js/libs/jquery-2.1.4.min.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:23.538] [DEBUG] dev - ::1 - - "GET /js/libs/bootstrap.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:23.546] [DEBUG] dev - ::1 - - "GET /js/libs/angular.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:23.552] [DEBUG] dev - ::1 - - "GET /js/app.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:07:33.666] [INFO] dev - win32_11gR2_database_1of2.zip is starting ...
+[2016-05-23 19:08:16.388] [DEBUG] dev - ::1 - - "GET / HTTP/1.1" 304 - "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:08:16.509] [DEBUG] dev - ::1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:08:16.510] [DEBUG] dev - ::1 - - "GET /css/espark.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:08:16.511] [DEBUG] dev - ::1 - - "GET /js/libs/jquery-2.1.4.min.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:08:16.512] [DEBUG] dev - ::1 - - "GET /js/libs/bootstrap.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:08:16.513] [DEBUG] dev - ::1 - - "GET /js/libs/angular.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:08:16.514] [DEBUG] dev - ::1 - - "GET /js/app.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
