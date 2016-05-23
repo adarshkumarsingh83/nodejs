@@ -1,0 +1,145 @@
+[2016-05-21 20:01:45.043] [INFO] dev - server stared at 3000 port 
+[2016-05-21 20:05:57.217] [INFO] dev - Received Post Request in server adarsh adarsh
+[2016-05-21 20:05:58.114] [INFO] dev - Selection successful from db adarsh adarsh
+[2016-05-21 20:05:58.114] [INFO] dev - login credential match
+[2016-05-21 20:05:58.121] [DEBUG] dev - 127.0.0.1 - - "POST /api/authenticate HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:05:58.269] [INFO] dev - Received Get Request in server adarsh
+[2016-05-21 20:05:58.272] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:05:58.273] [INFO] dev - Data from db undefined undefined
+[2016-05-21 20:05:58.277] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:05:58.323] [INFO] dev - Received Get Request in server
+[2016-05-21 20:05:58.325] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:05:58.325] [INFO] dev - Data from db [object Object]
+[2016-05-21 20:05:58.326] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:06:51.758] [INFO] dev - Received Get Request in server adarsh
+[2016-05-21 20:06:51.760] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:06:51.760] [INFO] dev - Data from db undefined undefined
+[2016-05-21 20:06:51.762] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:06:51.762] [INFO] dev - Received Get Request in server
+[2016-05-21 20:06:51.763] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:06:51.765] [INFO] dev - Data from db [object Object]
+[2016-05-21 20:06:51.766] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:07:16.618] [INFO] dev - Received Get Request in server adarsh
+[2016-05-21 20:07:16.620] [INFO] dev - Received Get Request in server
+[2016-05-21 20:07:16.622] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:07:16.622] [INFO] dev - Data from db undefined undefined
+[2016-05-21 20:07:16.623] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:07:16.624] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:07:16.624] [INFO] dev - Data from db [object Object]
+[2016-05-21 20:07:16.625] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:08:01.840] [INFO] dev - Received Get Request in server adarsh
+[2016-05-21 20:08:01.841] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:08:01.841] [INFO] dev - Data from db undefined undefined
+[2016-05-21 20:08:01.843] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:08:01.847] [INFO] dev - Received Get Request in server
+[2016-05-21 20:08:01.848] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:08:01.848] [INFO] dev - Data from db [object Object]
+[2016-05-21 20:08:01.849] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:08:53.205] [INFO] dev - Received Get Request in server adarsh
+[2016-05-21 20:08:53.207] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:08:53.207] [INFO] dev - Data from db undefined undefined
+[2016-05-21 20:08:53.208] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 20:08:53.209] [INFO] dev - Received Get Request in server
+[2016-05-21 20:08:53.211] [INFO] dev - Selection successful [object Object]
+[2016-05-21 20:08:53.211] [INFO] dev - Data from db [object Object]
+[2016-05-21 20:08:53.212] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:16:46.511] [INFO] dev - server stared at 3000 port 
+[2016-05-23 21:16:59.985] [INFO] dev - Received Post Request in server adarsh adarsh
+[2016-05-23 21:17:00.358] [INFO] dev - Selection successful from db adarsh adarsh
+[2016-05-23 21:17:00.359] [INFO] dev - login credential match
+[2016-05-23 21:17:00.368] [DEBUG] dev - 127.0.0.1 - - "POST /api/authenticate HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:17:00.442] [INFO] dev - Received Get Request in server adarsh
+[2016-05-23 21:17:00.445] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:17:00.446] [INFO] dev - Data from db undefined undefined
+[2016-05-23 21:17:00.450] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:17:00.453] [INFO] dev - Received Get Request in server
+[2016-05-23 21:17:00.456] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:17:00.456] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:17:00.457] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:44:16.130] [INFO] dev - server stared at 3000 port 
+[2016-05-23 21:44:39.553] [INFO] dev - Received Post Request in server adarsh adarsh
+[2016-05-23 21:44:39.910] [INFO] dev - Selection successful from db adarsh adarsh
+[2016-05-23 21:44:39.910] [INFO] dev - login credential match
+[2016-05-23 21:44:39.920] [DEBUG] dev - 127.0.0.1 - - "POST /api/authenticate HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:44:40.015] [INFO] dev - Received Get Request in server adarsh
+[2016-05-23 21:44:40.019] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:44:40.020] [INFO] dev - Data from db undefined undefined
+[2016-05-23 21:44:40.025] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:44:40.030] [INFO] dev - Received Get Request in server
+[2016-05-23 21:44:40.033] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:44:40.033] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:44:40.035] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:44:42.784] [INFO] dev - Received Delete Request in server 574323ee8075f4b00634cb14
+[2016-05-23 21:44:42.789] [INFO] dev - Deletion successful
+[2016-05-23 21:44:42.789] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:44:42.791] [DEBUG] dev - 127.0.0.1 - - "DELETE /api/users/574323ee8075f4b00634cb14 HTTP/1.1" 200 14 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:44:42.811] [INFO] dev - Received Get Request in server
+[2016-05-23 21:44:42.813] [INFO] dev - Selection successful 
+[2016-05-23 21:44:42.813] [INFO] dev - Data from db 
+[2016-05-23 21:44:42.814] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 200 2 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:44:48.082] [INFO] dev - Received Post Request in server adarsh adarsh
+[2016-05-23 21:44:48.084] [INFO] dev -  User Not Found in Db Result is null
+[2016-05-23 21:44:48.084] [INFO] dev - login credential not match
+[2016-05-23 21:44:48.086] [DEBUG] dev - 127.0.0.1 - - "POST /api/authenticate HTTP/1.1" 200 5 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:44:58.371] [INFO] dev - Insertion successful
+[2016-05-23 21:44:58.372] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:44:58.373] [DEBUG] dev - 127.0.0.1 - - "POST /api/users HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:04.057] [INFO] dev - Received Post Request in server adarsh adarsh
+[2016-05-23 21:45:04.060] [INFO] dev - Selection successful from db adarsh adarsh
+[2016-05-23 21:45:04.060] [INFO] dev - login credential match
+[2016-05-23 21:45:04.062] [DEBUG] dev - 127.0.0.1 - - "POST /api/authenticate HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:04.151] [INFO] dev - Received Get Request in server adarsh
+[2016-05-23 21:45:04.153] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:45:04.153] [INFO] dev - Data from db undefined undefined
+[2016-05-23 21:45:04.156] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/adarsh HTTP/1.1" 200 114 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:04.157] [INFO] dev - Received Get Request in server
+[2016-05-23 21:45:04.159] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:45:04.159] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:04.160] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 200 116 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:05.981] [INFO] dev - Received Delete Request in server 57432c826c2b1c58051cb40c
+[2016-05-23 21:45:05.982] [INFO] dev - User Fetch successful
+[2016-05-23 21:45:05.983] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:05.986] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/id/57432c826c2b1c58051cb40c HTTP/1.1" 200 114 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:10.086] [INFO] dev - Received Put Request in server adarsh
+[2016-05-23 21:45:10.090] [INFO] dev - Update successful
+[2016-05-23 21:45:10.090] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:10.091] [DEBUG] dev - 127.0.0.1 - - "PUT /api/users/57432c826c2b1c58051cb40c HTTP/1.1" 200 114 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:10.099] [INFO] dev - Received Get Request in server
+[2016-05-23 21:45:10.101] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:45:10.101] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:10.106] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 200 116 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:20.115] [INFO] dev - Insertion successful
+[2016-05-23 21:45:20.115] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:20.116] [DEBUG] dev - 127.0.0.1 - - "POST /api/users HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:25.840] [INFO] dev - Received Post Request in server radha radha
+[2016-05-23 21:45:25.842] [INFO] dev - Selection successful from db radha radha
+[2016-05-23 21:45:25.843] [INFO] dev - login credential match
+[2016-05-23 21:45:25.845] [DEBUG] dev - 127.0.0.1 - - "POST /api/authenticate HTTP/1.1" 200 4 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:25.916] [INFO] dev - Received Get Request in server radha
+[2016-05-23 21:45:25.917] [INFO] dev - Received Get Request in server
+[2016-05-23 21:45:25.920] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:45:25.921] [INFO] dev - Data from db undefined undefined
+[2016-05-23 21:45:25.922] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/name/radha HTTP/1.1" 200 111 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:25.925] [INFO] dev - Selection successful [object Object],[object Object]
+[2016-05-23 21:45:25.925] [INFO] dev - Data from db [object Object],[object Object]
+[2016-05-23 21:45:25.926] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 200 228 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:29.076] [INFO] dev - Received Delete Request in server 57432c826c2b1c58051cb40c
+[2016-05-23 21:45:29.078] [INFO] dev - User Fetch successful
+[2016-05-23 21:45:29.078] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:29.082] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/id/57432c826c2b1c58051cb40c HTTP/1.1" 200 114 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:33.158] [INFO] dev - Received Put Request in server adarsh
+[2016-05-23 21:45:33.159] [INFO] dev - Update successful
+[2016-05-23 21:45:33.160] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:33.161] [DEBUG] dev - 127.0.0.1 - - "PUT /api/users/57432c826c2b1c58051cb40c HTTP/1.1" 200 114 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:33.168] [INFO] dev - Received Get Request in server
+[2016-05-23 21:45:33.170] [INFO] dev - Selection successful [object Object],[object Object]
+[2016-05-23 21:45:33.170] [INFO] dev - Data from db [object Object],[object Object]
+[2016-05-23 21:45:33.173] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 200 228 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:36.040] [INFO] dev - Received Delete Request in server 57432c826c2b1c58051cb40c
+[2016-05-23 21:45:36.042] [INFO] dev - Deletion successful
+[2016-05-23 21:45:36.042] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:36.045] [DEBUG] dev - 127.0.0.1 - - "DELETE /api/users/57432c826c2b1c58051cb40c HTTP/1.1" 200 14 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 21:45:36.055] [INFO] dev - Received Get Request in server
+[2016-05-23 21:45:36.056] [INFO] dev - Selection successful [object Object]
+[2016-05-23 21:45:36.056] [INFO] dev - Data from db [object Object]
+[2016-05-23 21:45:36.057] [DEBUG] dev - 127.0.0.1 - - "GET /api/users/getAll HTTP/1.1" 200 113 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"

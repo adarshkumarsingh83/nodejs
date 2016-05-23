@@ -1,0 +1,23 @@
+{
+  "name": "MongoExpressAngularNodeApplication",
+  "version": "0.0.1",
+  "description": "A sample code project",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "*",
+    "log4js": "^0.6.36",
+    "mongojs": "^2.4.0"
+  },
+  "engineStrict": true,
+  "engine": "node 5.0.0",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "author": {
+    "name": "Adarsh Kumar",
+    "email": "adarsh@kumar.com",
+    "url": "http://adarshkumar83.espark.com/"
+  }
+}
