@@ -1,0 +1,22 @@
+{
+  "name": "AngularNodeMySqlExample",
+  "version": "0.0.1",
+  "description": "A sample code project for node angular and mysql ",
+  "engineStrict": true,
+  "engine": "node 5.0.0",
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"
+  },
+  "author": {
+    "name": "Adarsh Kumar",
+    "email": "adarsh@kumar.com",
+    "url": "http://adarshkumar83.espark.com/"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "log4js": "^0.6.29",
+    "mysql": "^2.10.0"
+  }
+}

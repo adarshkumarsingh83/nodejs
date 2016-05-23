@@ -1,0 +1,252 @@
+[2015-12-21 12:56:50.402] [INFO] dev - localhost:3000
+[2015-12-21 12:56:55.994] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 404 13 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 12:56:56.076] [DEBUG] dev - 127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 404 24 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 12:59:37.542] [INFO] dev - localhost:3000
+[2015-12-21 12:59:43.010] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 404 13 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 12:59:44.464] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 404 13 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 12:59:44.740] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 404 13 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 12:59:44.957] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 404 13 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 12:59:45.169] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 404 13 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 12:59:45.361] [DEBUG] dev - 127.0.0.1 - - "GET / HTTP/1.1" 404 13 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:01:08.325] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:01:10.259] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:01:55.965] [INFO] dev - localhost:3000
+[2015-12-21 13:02:00.620] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:02:31.314] [INFO] dev - localhost:3000
+[2015-12-21 13:02:38.358] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:02:42.083] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:05:27.350] [INFO] dev - localhost:3000
+[2015-12-21 13:05:33.540] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:05:36.360] [DEBUG] dev - 127.0.0.1 - - "GET /api/users HTTP/1.1" 200 11189 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:15:54.215] [INFO] dev - localhost:3000
+[2015-12-21 13:16:03.011] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:16:11.585] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap-3.1.1.css HTTP/1.1" 404 36 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:16:59.567] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:17:02.471] [DEBUG] dev - 127.0.0.1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:17:44.527] [INFO] dev - localhost:3000
+[2015-12-21 13:17:47.930] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:17:49.808] [DEBUG] dev - 127.0.0.1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:18:21.561] [INFO] dev - localhost:3000
+[2015-12-21 13:18:23.764] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:18:26.017] [DEBUG] dev - 127.0.0.1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:19:21.869] [INFO] dev - localhost:3000
+[2015-12-21 13:19:23.595] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:19:27.150] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:19:31.341] [DEBUG] dev - 127.0.0.1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:29:16.917] [INFO] dev - localhost:3000
+[2015-12-21 13:29:31.246] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 13:29:32.549] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 11189 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:04:27.803] [INFO] dev - localhost:3000
+[2015-12-21 14:04:34.567] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:04:36.527] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:06:42.077] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:07:45.573] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:10:18.587] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:10:20.033] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:10:21.691] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:11:07.577] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:11:08.457] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:16:04.121] [INFO] dev - localhost:3000
+[2015-12-21 14:16:12.613] [INFO] dev - localhost:3000
+[2015-12-21 14:16:22.618] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:16:28.192] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:17:03.471] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:17:04.597] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:18:04.459] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:18:06.180] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:18:24.135] [INFO] dev - localhost:3000
+[2015-12-21 14:18:26.171] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:18:32.192] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:23:15.243] [INFO] dev - localhost:3000
+[2015-12-21 14:23:27.892] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:23:29.635] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:24:28.420] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:24:33.326] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:24:35.072] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:25:52.964] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:26:00.102] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:27:51.245] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:27:53.839] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:31:03.175] [INFO] dev - localhost:3000
+[2015-12-21 14:31:08.029] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:31:11.708] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:34:06.252] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:34:07.743] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:35:22.911] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:35:24.693] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:36:11.184] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:36:13.295] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:37:03.595] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:37:05.251] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:37:48.093] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:37:49.202] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:39:10.514] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:39:13.967] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:40:17.631] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:41:03.172] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:41:09.594] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:47:45.354] [INFO] dev - localhost:3000
+[2015-12-21 14:47:48.973] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:47:52.038] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:47:53.670] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:49:01.303] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:49:02.783] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:49:37.618] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:49:39.289] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:50:11.649] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 14:50:12.882] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 15:13:45.086] [INFO] dev - localhost:3000
+[2015-12-21 15:13:53.903] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 15:15:24.263] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 15:15:51.435] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:19:15.312] [INFO] dev - localhost:3000
+[2015-12-21 21:19:24.672] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:30.017] [INFO] dev - localhost:3000
+[2015-12-21 21:24:35.211] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:46.759] [INFO] dev - connected as id 26
+[2015-12-21 21:24:46.875] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:46.879] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 200 22697 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:54.588] [INFO] dev - connected as id 26
+[2015-12-21 21:24:54.704] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:54.707] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:55.262] [INFO] dev - connected as id 26
+[2015-12-21 21:24:55.371] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:55.375] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:55.466] [INFO] dev - connected as id 26
+[2015-12-21 21:24:55.587] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:55.591] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:55.672] [INFO] dev - connected as id 26
+[2015-12-21 21:24:55.797] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:55.801] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:55.890] [INFO] dev - connected as id 26
+[2015-12-21 21:24:55.998] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:56.001] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:56.107] [INFO] dev - connected as id 26
+[2015-12-21 21:24:56.214] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:56.216] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:24:56.301] [INFO] dev - connected as id 26
+[2015-12-21 21:24:56.413] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:24:56.415] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:25:37.757] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:25:41.123] [INFO] dev - connected as id 26
+[2015-12-21 21:25:41.232] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:25:41.236] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:25:46.837] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:26:02.381] [INFO] dev - connected as id 26
+[2015-12-21 21:26:02.491] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:26:02.494] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:26:13.045] [INFO] dev - connected as id 26
+[2015-12-21 21:26:13.145] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:26:13.147] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:27:33.454] [INFO] dev - localhost:3000
+[2015-12-21 21:27:35.902] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:27:37.917] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:27:44.995] [INFO] dev - connected as id 27
+[2015-12-21 21:27:45.105] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:27:45.108] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:27:45.884] [INFO] dev - connected as id 27
+[2015-12-21 21:27:45.999] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:27:46.002] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:27:46.569] [INFO] dev - connected as id 27
+[2015-12-21 21:27:46.677] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:27:46.679] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:27:46.769] [INFO] dev - connected as id 27
+[2015-12-21 21:27:46.871] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:27:46.874] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:27:46.975] [INFO] dev - connected as id 27
+[2015-12-21 21:27:47.081] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:27:47.083] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:28:23.833] [INFO] dev - connected as id 27
+[2015-12-21 21:28:23.951] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:28:23.954] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:28:24.568] [INFO] dev - connected as id 27
+[2015-12-21 21:28:24.679] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:28:24.682] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:28:24.808] [INFO] dev - connected as id 27
+[2015-12-21 21:28:24.915] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:28:24.918] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:29:19.982] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:29:21.308] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:29:22.526] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:29:24.900] [INFO] dev - connected as id 27
+[2015-12-21 21:29:24.999] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:29:25.001] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:29:26.361] [INFO] dev - connected as id 27
+[2015-12-21 21:29:26.476] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:29:26.478] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:29:27.850] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:29:28.904] [INFO] dev - connected as id 27
+[2015-12-21 21:29:29.009] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:29:29.011] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:10.388] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:12.092] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:14.102] [INFO] dev - connected as id 27
+[2015-12-21 21:30:14.209] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:30:14.212] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:17.633] [INFO] dev - connected as id 27
+[2015-12-21 21:30:17.740] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:30:17.742] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:21.001] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:21.752] [INFO] dev - connected as id 27
+[2015-12-21 21:30:21.842] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:30:21.844] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:58.404] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:30:59.508] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:31:00.771] [INFO] dev - connected as id 27
+[2015-12-21 21:31:00.871] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:31:00.873] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:32:21.114] [DEBUG] dev - 127.0.0.1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:32:22.312] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:32:23.860] [INFO] dev - connected as id 27
+[2015-12-21 21:32:23.975] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:32:23.978] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:32:25.932] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:32:27.084] [INFO] dev - connected as id 27
+[2015-12-21 21:32:27.183] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:32:27.185] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:32:35.699] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 325041 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:32:37.561] [INFO] dev - connected as id 27
+[2015-12-21 21:32:37.681] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-21 21:32:37.683] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-21 21:38:12.406] [INFO] dev - localhost:3000
+[2015-12-24 13:43:20.718] [INFO] dev - localhost:3000
+[2015-12-24 13:43:28.574] [DEBUG] dev - 127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 404 24 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-24 13:43:52.230] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 324812 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-24 13:44:00.509] [INFO] dev - connected as id 182
+[2015-12-24 13:44:00.629] [INFO] dev - Data Fetch Successfully From Db
+[2015-12-24 13:44:00.633] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2015-12-24 13:44:10.906] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 324812 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36"
+[2016-05-20 21:05:51.940] [INFO] dev - localhost:3000
+[2016-05-20 21:06:23.943] [INFO] dev - connected as id 2
+[2016-05-20 21:06:25.833] [INFO] dev - Data Fetch Successfully From Db
+[2016-05-20 21:06:25.877] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 200 3889 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-20 21:06:27.145] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-20 21:06:27.441] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-20 21:06:35.459] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-20 21:06:37.567] [INFO] dev - connected as id 2
+[2016-05-20 21:06:37.655] [INFO] dev - Data Fetch Successfully From Db
+[2016-05-20 21:06:37.658] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-20 21:06:39.324] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-20 21:08:02.332] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-20 21:08:17.543] [INFO] dev - connected as id 1
+[2016-05-20 21:08:17.667] [INFO] dev - Data Fetch Successfully From Db
+[2016-05-20 21:08:17.669] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:12.616] [INFO] dev - localhost:3000
+[2016-05-23 19:11:23.510] [INFO] dev - connected as id 4
+[2016-05-23 19:11:24.879] [INFO] dev - Data Fetch Successfully From Db
+[2016-05-23 19:11:24.890] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:26.233] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:26.732] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:27.086] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:27.347] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:27.504] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:28.039] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:31.433] [INFO] dev - connected as id 3
+[2016-05-23 19:11:31.567] [INFO] dev - Data Fetch Successfully From Db
+[2016-05-23 19:11:31.568] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:11:35.533] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:20:15.912] [INFO] dev - localhost:3000
+[2016-05-23 19:20:34.167] [DEBUG] dev - 127.0.0.1 - - "GET /api/tables HTTP/1.1" 200 82310 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-23 19:21:30.590] [INFO] dev - connected as id 5
+[2016-05-23 19:21:30.707] [INFO] dev - Data Fetch Successfully From Db
+[2016-05-23 19:21:30.714] [DEBUG] dev - 127.0.0.1 - - "GET /api/dbs HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html data-ng-app="Application">
+<head>
+    <title></title>
+    <script src="js/libs/jquery-2.1.4.min.js"></script>
+    <script src="js/libs/angular.js"></script>
+    <script src="js/libs/angular-route.js"></script>
+    <script src="js/libs/angular-cookies.js"></script>
+    <script src="js/application.js"></script>
+    <link rel="stylesheet" href="css/bootstrap-3.1.1.css"/>
+</head>
+<body ng-controller="ApplicationController">
+<div class="container">
+    <div class="jumbotron">
+
+        <div class="alert alert-info" style="text-align: center">
+            <h3>ESPARK ANGULAR NODEJS MYSQL EXAMPLE </h3>
+        </div>
+
+        <br/>
+        <br/>
+        <button class="btn btn-info" ng-click="getData()"> Get Mysql Data</button>
+        &nbsp;&nbsp;
+        <button class="btn btn-info" ng-click="getDbList()"> Get Mysql DBList</button>
+        <br/>
+
+        <div ng-if="tableData">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>TABLE_NAME</th>
+                    <th>CREATE_TIME</th>
+                    <th>TABLE_SCHEMA</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="table in tableData track by $index | orderBy:'table.TABLE_SCHEMA'">
+                    <td>{{ table.TABLE_NAME }}</td>
+                    <td>{{ table.CREATE_TIME }}</td>
+                    <td>{{ table.TABLE_SCHEMA }}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div ng-if="dbData">
+            <table class="table table-striped">
+                <thead>
+                <tr>
+                    <th>TABLE_NAME</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr ng-repeat="table in dbData track by $index | orderBy:'table.table_name'">
+                    <td>{{ table.table_name }}</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+</div>
+</body>
+
+</html>
