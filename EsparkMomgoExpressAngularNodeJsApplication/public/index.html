@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head>
+    <meta charset="utf-8"/>
+    <title>AngularJS User Registration and Login Example</title>
+    <link rel="stylesheet" href="css/bootstrap-3.1.1.min.css"/>
+    <link href="css/myStyle.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <div class="container">
+            <div class="alert alert-info" style="text-align: center">
+                <h3>ESPARK ANGULAR NODEJS MONGODB EXAMPLE </h3>
+            </div>
+            <div class="col-sm-8 col-sm-offset-2">
+                <div ng-class="{ 'alert': flash, 'alert-success': flash.type === 'success', 'alert-danger': flash.type === 'error' }"
+                     ng-if="flash" ng-bind="flash.message"></div>
+                <div ng-view></div>
+            </div>
+        </div>
+    </div>
+    <div class="credits text-center">
+        <p>
+            <a href="http://adarshkumarsingh83.blogspot.in/">Espark Educations</a>
+        </p>
+    </div>
+</div>
+
+<script src="js/libs/jquery-2.1.4.min.js"></script>
+<script src="js/libs/angular.js"></script>
+<script src="js/libs/angular-route.js"></script>
+<script src="js/libs/angular-cookies.js"></script>
+
+<script src="js/application.js"></script>
+<script src="app-services/authentication.service.js"></script>
+<script src="app-services/flash.service.js"></script>
+
+<!-- Real user service that uses an api -->
+<script src="app-services/user.service.js"></script>
+
+
+<script src="home/home.controller.js"></script>
+<script src="login/login.controller.js"></script>
+<script src="register/register.controller.js"></script>
+</body>
+</html>
