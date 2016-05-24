@@ -1,0 +1,31 @@
+{
+  "name": "MeanCrudTokenAuthenticationExample",
+  "version": "0.1.0",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-jwt": "^3.4.0",
+    "jsonwebtoken": "^7.0.0",
+    "log4js": "^0.6.36",
+    "mongoose": "^4.4.19"
+  },
+  "description": "Mean Stack Crud Operation and TokenAuthentication Example",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/auth0/angular-token-auth.git"
+  },
+  "keywords": [
+    "angular",
+    "express"
+  ],
+  "author": "adarsh kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/angular-token-auth/issues"
+  }
+}
