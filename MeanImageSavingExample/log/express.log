@@ -1,0 +1,71 @@
+[2016-05-21 19:33:22.394] [INFO] dev - mongo is open
+[2016-05-21 19:33:22.404] [INFO] dev - removed old docs
+[2016-05-21 19:33:22.435] [INFO] dev - saved img to mongo
+[2016-05-21 19:33:22.443] [INFO] dev - press CTRL+C to exit 8080
+[2016-05-21 19:35:25.983] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 200 41646 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:21.477] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:47.708] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:36:47.719] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:47.722] [INFO] dev - saved img to mongo
+[2016-05-21 19:36:51.069] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:36:51.073] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:51.075] [INFO] dev - saved img to mongo
+[2016-05-21 19:36:52.424] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:36:52.428] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:52.429] [INFO] dev - saved img to mongo
+[2016-05-21 19:36:52.951] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:36:52.955] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:52.956] [INFO] dev - saved img to mongo
+[2016-05-21 19:36:53.176] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:36:53.181] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:53.182] [INFO] dev - saved img to mongo
+[2016-05-21 19:36:53.382] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:36:53.386] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:53.387] [INFO] dev - saved img to mongo
+[2016-05-21 19:36:53.606] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:36:53.610] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:36:53.611] [INFO] dev - saved img to mongo
+[2016-05-21 19:36:58.689] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 200 41646 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:37:09.472] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:37:14.050] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:37:14.053] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:37:14.055] [INFO] dev - saved img to mongo
+[2016-05-21 19:39:42.851] [INFO] dev - mongo is open
+[2016-05-21 19:39:42.863] [INFO] dev - removed old docs
+[2016-05-21 19:39:42.896] [INFO] dev - saved img to mongo
+[2016-05-21 19:39:42.904] [INFO] dev - press CTRL+C to exit 8080
+[2016-05-21 19:39:44.478] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 200 41646 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:39:47.191] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:39:50.953] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:39:50.964] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:39:50.966] [INFO] dev - saved img to mongo
+[2016-05-21 19:41:56.372] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 200 41646 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:41:57.070] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:41:57.623] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:41:58.267] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:41:59.153] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:41:59.651] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:47:44.314] [INFO] dev - mongo is open
+[2016-05-21 19:47:44.325] [INFO] dev - removed old docs
+[2016-05-21 19:47:44.362] [INFO] dev - saved img to mongo
+[2016-05-21 19:47:44.370] [INFO] dev - press CTRL+C to exit 8080
+[2016-05-21 19:47:49.158] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:47:53.339] [DEBUG] dev - ::1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:48:00.730] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:48:00.741] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:48:00.743] [INFO] dev - saved img to mongo
+[2016-05-21 19:49:56.452] [DEBUG] dev - ::1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:49:56.810] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 200 41646 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:50:15.617] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:50:15.621] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:50:15.622] [INFO] dev - saved img to mongo
+[2016-05-21 19:50:28.406] [DEBUG] dev - ::1 - - "GET /css/bootstrap.css.map HTTP/1.1" 404 34 "" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:50:28.787] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 200 41646 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:53:39.747] [INFO] dev - mongo is open
+[2016-05-21 19:53:39.765] [INFO] dev - removed old docs
+[2016-05-21 19:53:39.828] [INFO] dev - saved img to mongo
+[2016-05-21 19:53:39.838] [INFO] dev - press CTRL+C to exit 8080
+[2016-05-21 19:53:45.333] [DEBUG] dev - ::1 - - "GET /api/users HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:53:49.699] [INFO] dev - Received Post Request for saving image [object Object]
+[2016-05-21 19:53:49.711] [DEBUG] dev - ::1 - - "POST /api/users HTTP/1.1" 302 23 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+[2016-05-21 19:53:49.713] [INFO] dev - saved img to mongo

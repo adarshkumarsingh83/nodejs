@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html ng-app="ImageDirective">
+<head>
+    <link rel="stylesheet" href="css/bootstrap-3.1.1.css"/>
+    <script src="js/libs/jquery-2.1.4.min.js"></script>
+    <script src="js/libs/angular.js"></script>
+    <script src="js/libs/angular-route.js"></script>
+    <script src="js/libs/angular-cookies.js"></script>
+
+    <script src="js/application.js"></script>
+</head>
+
+<body ng-controller="DataController">
+<div class="container">
+    <div>
+        <div class="jumbotron" style="text-align: center">
+            <div class="alert alert-info" style="text-align: center">
+                <h4>ESPARK ANGULAR NODEJS IMAGE SAVEING TO MONGODB EXAMPLE </h4>
+            </div>
+            <H4>{{header}}</H4>
+        </div>
+    </div>
+</div>
+
+<div ng-if="errorMsg" class="alert-danger" style="text-align: center">
+    {{errorMsg}}
+</div>
+<div ng-if="successMsg" class="alert-success" style="text-align: center">
+    {{successMsg}}
+</div>
+<div>
+    <label>File Upload</label>
+    <input type="file" file-model="myFile"/>
+    <button ng-click="uploadFile()">upload me</button>
+</div>
+
+<div> FirstName : {{ person.firstName }}</div>
+<div> LastName : {{ person.lastName }}</div>
+<div>
+    <img ng-src="data:image/jpg;base64,{{person.image}}" class="img-rounded">
+</div>
+</body>
+</html>
