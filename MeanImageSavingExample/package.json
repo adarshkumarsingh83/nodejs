@@ -6,7 +6,7 @@
     "express": "*",
     "fs": "0.0.2",
     "log4js": "^0.6.36",
-    "mongoose": "^4.4.19"
+    "mongoose": "^5.10.2"
   },
   "description": "MeanImageSavingExample",
   "main": "server.js",
