@@ -4,7 +4,7 @@
   "dependencies": {
     "express": "*",
     "lo4js": "*",
-    "mongoose": "^4.2.6"
+    "mongoose": "^5.10.2"
   },
   "description": "MeanCrudExample",
   "main": "server.js",
