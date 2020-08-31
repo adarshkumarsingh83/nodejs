@@ -1,0 +1,19 @@
+{
+  "name": "iamge-server",
+  "version": "0.0.0",
+  "description": "Examples of serving static files with HTTP using Node.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/node-static-http-servers.git"
+  },
+  "author": "adarsh.kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com",
+  "dependencies": {
+    "connect": "^3.5.0",
+    "express": "^4.14.0"
+  }
+}
