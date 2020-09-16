@@ -113,3 +113,7 @@ Is this OK? (yes) yes
   ```
   {"id":40,"name":"sonu singh","email":"sonu@singh.thankur"}
   ```
+
+
+  ### To install dependency 
+  * npm i 
