@@ -114,7 +114,7 @@ app.listen(PORT, () => {
 ```
 
 ### To execute 
-* sample$ npm appjs 
+* sample$ npm app.js 
 
 ### application url 
 * $ curl http://localhost:3000/espark
