@@ -1,3 +1,4 @@
+var logger = require('../util/LogUtils');
 const { response } = require("express");
 
 var User  = function (id, name, email){
@@ -12,10 +13,12 @@ usersList.push(new User(20,'radha singh','radha@singh') );
 usersList.push(new User(30,'amit kumar','amit@kumar') );
 
 exports.getAllUsers = () => {
+    logger.info(`DataService getAllUsers()`);
     return usersList;
 }
 
 exports.getUserById = (id) => {
+    logger.info(`DataService getUserById() ${id}`);
     for (var i = 0; i < usersList.length; i++) {
         if (usersList[i].id == id){
             return usersList[i];
