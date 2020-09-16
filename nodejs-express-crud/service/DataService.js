@@ -2,9 +2,14 @@ var logger = require('../util/LogUtils');
 const { response } = require("express");
 
 var User  = function (id, name, email){
+
     this.id = id;
     this.name = name;
     this.email = email;
+
+    function display(){
+        return `{"id":${id},"name":${name},"email":${email}}`
+    }
 }
 
 var usersList = [];
@@ -28,11 +33,13 @@ exports.getUserById = (id) => {
 }
 
 exports.saveUser = (user) => {
+    logger.info(`DataService saveUser() ${user}`)
     usersList .push(user);
     return user;
 }
 
 exports.deleteUser = (id) => {
+    logger.info(`DataService deleteUser() ${id}`)
     for (var i = 0; i < usersList.length; i++) {
         if (usersList[i].id == id){
             var user =  usersList[i];
@@ -44,6 +51,7 @@ exports.deleteUser = (id) => {
 }
 
 exports.updateUser = (id, user) => {
+    logger.info(`DataService updateUser() ${id} ${user}`)
     for (var i = 0; i < usersList.length; i++) {
         if (usersList[i].id == id){
            usersList[i] = user ;

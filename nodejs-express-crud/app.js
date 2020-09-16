@@ -23,7 +23,7 @@ app.get('/users', function (request, response) {
 app.put('/user/:userId', function (request, response) {
     var userId = request.params.userId;
     var user = request.body;
-    logger.info(`App.js Request for Updating User ById ${userId}  User  ${user}`);
+    logger.info(`App.js Request for Updating User ById ${userId}  User  ${user.display()}`);
     var userData = dataService.updateUser(userId,user);
     response.json(userData);
 });

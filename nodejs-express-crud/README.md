@@ -58,7 +58,8 @@ Is this OK? (yes) yes
 ### To install log4js 
 * $ npm i log4js --save 
 
-
+* or 
+* $ npm install @types/express express body-parser log4js --save
 
 ### Fetch all data 
 * $ curl localhost:3000/users
