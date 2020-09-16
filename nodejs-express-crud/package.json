@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-express-crud",
+  "version": "1.0.0",
+  "description": "nodejs express in memo crud operation ",
+  "main": "app.js ",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/adarshkumarsingh83/nodejs"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "crud",
+    "inmemo"
+  ],
+  "author": "espark adarsh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "log4js": "^6.3.0"
+  }
+}
