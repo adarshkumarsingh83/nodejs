@@ -57,7 +57,7 @@ git repository: github.com/adarshkumarsingh83
 keywords: nodejs
 author: espark adarsh 
 license: (ISC) 
-About to write to /Users/us-guest/WORK/sample/package.json:
+About to write to /Users/sample/package.json:
 
 {
   "name": "sample",
