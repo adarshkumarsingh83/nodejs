@@ -7,7 +7,7 @@
     "express-jwt": "^3.4.0",
     "jsonwebtoken": "^7.0.0",
     "log4js": "^0.6.36",
-    "mongoose": "^4.4.19"
+    "mongoose": "^5.10.2"
   },
   "description": "Mean Stack Crud Operation and TokenAuthentication Example",
   "main": "server.js",
