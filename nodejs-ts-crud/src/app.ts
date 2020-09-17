@@ -4,6 +4,7 @@ import bodyParser from 'body-parser';
 import cors from 'cors';
 
 class App {
+    
   public app: Application;
   public appController: AppController;
 

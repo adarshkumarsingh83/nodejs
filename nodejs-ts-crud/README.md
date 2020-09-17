@@ -61,3 +61,56 @@ message TS6071: Successfully created a tsconfig.json file.
 
 ### To execute 
 * $ npm run start 
+
+
+# Api call 
+
+### get all 
+* http://localhost:9001/users
+```
+[
+{
+"id": "10",
+"name": "adarsh kumar",
+"email": "adarsh@kumar"
+},
+{
+"id": "20",
+"name": "radha singh",
+"email": "radha@singh"
+},
+{
+"id": "30",
+"name": "amit kumar",
+"email": "amit@kumar"
+}
+]
+```
+### get by id 
+* http://localhost:9001/user/10
+```
+{
+"id": "10",
+"name": "adarsh kumar",
+"email": "adarsh@kumar"
+}
+```
+
+### post call 
+* curl --header "Content-Type: application/json" --request POST --data '{"id":40,"name":"sonu singh","email":"sonu@singh"}' http://localhost:9001/user
+
+```
+{"id":40,"name":"sonu singh","email":"sonu@singh"}
+```
+
+### update 
+* curl --header "Content-Type: application/json" --request PUT --data '{"id":40,"name":"sonu singh","email":"sonu@singh.thankur"}' http://localhost:9001/user/40
+```
+{"id":40,"name":"sonu singh","email":"sonu@singh.thankur"}
+```
+
+### delete 
+* curl --request DELETE http://localhost:9001/user/40
+```
+{"id":40,"name":"sonu singh","email":"sonu@singh.thankur"}
+```
