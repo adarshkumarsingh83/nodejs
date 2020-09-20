@@ -437,3 +437,58 @@ class Xxxx{
 ```
 
 ## Abstract Classes
+```
+abstract class Parent{
+
+    constrcutor(public name:string){
+
+    }
+
+	abstract xxxXxxx(): voidj;
+}
+
+class Clhild extends Parent{
+	constructor(name:string="xxxx"){
+		super(name);
+	}
+	xxxXXX(){
+		console.log("xxxxx");
+	}
+}
+```
+
+---
+
+## Enums
+```
+enum XxxxEnum {
+  varName = 1,
+  varName,
+  varName = "xxxx"
+}
+
+## in mthod param 
+function functionName(varName: string, varName: XxxxEnum): void {
+  // ...
+}
+```
+
+## Generics
+
+### Method 
+```
+ function methodName<T>(args: T): T{
+ 	return args;
+ }
+
+ let varName = methodName<string>("myString")
+
+  function methodName<T>(args: T[]): T[]{
+ 	return args;
+ }
+
+
+   function methodName<T>(args: Array<T>): Array<T>{
+ 	return args;
+ }
+```
