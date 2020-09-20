@@ -250,3 +250,190 @@ or
 let buildNameFun: (fname: string, ...rest: string[]) => string = buildName;
 ```
 
+## this 
+```
+let varName = {
+
+	arrayVar : ["xxx","xxx"],
+	varArray: Array(size),
+	functionName: function(){
+		return () => {
+			return { xxx: this. arrayVar[index]}
+		}
+	}
+}
+
+let xxxXxx = varName.functionName();
+let yy = xxxXxx();
+```
+
+---
+
+## Classes 
+```
+class Xxxx{
+	varName: stirng;
+	constructor(varName:jstring){
+		this.varName=varName;
+	}
+
+	methodName(){
+		return `some ${varName}`;
+	}
+}
+
+let varObject = new Xxxx("xxxx");
+
+```
+
+## Inheritance
+```
+class Parent{
+	varNameP: stirng;
+	constructor(varName:jstring){
+		this.varNameP=varName;
+	}
+
+	methodNameP(){
+		return `P ${varNameP}`;
+	}
+}
+
+class Child{
+
+	varNameC: stirng;
+	constructor(varName:jstring){
+		super(varName);
+		this.varNameC=varName;
+	}
+
+	methodNameC(){
+		return `C ${varNameC}`;
+	}
+}
+
+const varObject = new Child("xxx");
+varObject.methodNameP();
+varObject.methodNameC();
+```
+
+
+## Public, private, and protected modifiers
+### Public by default
+
+```
+class Xxxx{
+	public varName: stirng;
+	constructor(varName:jstring){
+		this.varName=varName;
+	}
+
+	methodName(){
+		return `some ${varName}`;
+	}
+}
+
+let varObject = new Xxxx("xxxx");
+varObject.varname;
+```
+### Private 
+```
+class Xxxx{
+	private varName: stirng;
+	constructor(varName:jstring){
+		this.varName=varName;
+	}
+
+	methodName(){
+		return `some ${varName}`;
+	}
+}
+
+let varObject = new Xxxx("xxxx");
+varObject.varname; // not accessable 
+```
+
+### Protected 
+```
+class Parent{
+	protected varNameP: stirng;
+	constructor(varName:jstring){
+		this.varNameP=varName;
+	}
+
+	methodNameP(){
+		return `P ${varNameP}`;
+	}
+}
+
+class Child{
+
+	varNameC: stirng;
+	constructor(varName:jstring){
+		super(varName);
+		this.varNameC=varName;
+	}
+
+	methodNameC(){
+		return `P ${varNameP} C ${varNameC}`;
+	}
+}
+
+const varObject = new Child("xxx");
+varObject.methodNameP();
+varObject.methodNameC();
+varObject.varNameP; // not accessabel
+```
+
+## Readonly
+```
+class Xxxx{
+	readonly varName: stirng;
+	constructor(varName:jstring, readonly xxxVar: string){
+		this.varName=varName;
+	}
+
+	methodName(){
+		return `some ${varName}`;
+	}
+}
+
+let varObject = new Xxxx("xxxx","xxxxx");
+varObject.varname = 'xxxxx' // not possible
+```
+
+## Accessors
+```
+class Xxxx{
+    
+     _varName: string="xxx";
+     
+      get varName(): string {
+      	  return this._varName;
+      } 
+
+      set varName(varName: string ){
+      	 this._varName= varName;
+      }
+
+}
+
+```
+
+## Static 
+```
+class Xxxx{
+
+	static  varName= { x: 0, y:0};
+
+	constructor(varName: {x: number; y: number}){
+		Xxxx.varName=varName;
+	}
+
+	methodName(){
+		return `some ${Xxxx.varName}`;
+	}
+}
+```
+
+## Abstract Classes
