@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-server-side-event",
+  "version": "1.0.0",
+  "description": "nodejs sse basic example ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adarsh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "events": "^3.3.0",
+    "express": "^4.17.3"
+  }
+}
