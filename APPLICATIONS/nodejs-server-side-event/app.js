@@ -1,11 +1,14 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const EventEmitter = require('events')
+const cors = require('cors');
+
 const PORT = 8080
 
 const app = express()
 
 const Stream = new EventEmitter();
+app.use(cors())
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
          extended: true,
@@ -24,7 +27,7 @@ app.get('/espark', (req, res) => {
 });
 
 setInterval(function () {
-    Stream.emit('push', ' message ', { msg: 'welcome to espark' }); 
+    Stream.emit('push', ' message ', { msg: 'welcome to espark '+Date.now() }); 
 },10000);
 
 app.listen(PORT, () => {

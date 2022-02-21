@@ -1,4 +1,4 @@
-# nodejs-server-side-event 
+# nodejs-server-side-event
 
 ---
 
@@ -51,11 +51,12 @@ About to write to /Users/us-guest/Desktop/nodejs-sse/package.json:
 - npm install express --save
 - npm install body-parser --save
 - npm install events --save
+- npm install --save cors
 
 ### To start the application
 
 - npm install
-- npm app.js
+- node app.js
 
 ### application url
 
